@@ -1,0 +1,17 @@
+.heading-text{
+	color: #908e8e;
+}
+
+span{
+	width: 59px;
+    height: 3px;
+    background: #90bbfd;
+    display: block;
+}
+.btn {
+background: blue;
+    padding: 7px 30px;
+}
+.socil-option{
+	list-style: none;
+}
